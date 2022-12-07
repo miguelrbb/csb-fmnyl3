@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&family=Rubik:wght@300;400;500;600;700;800;900&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #021627;
+  top: 0;
+  margin: 0;
+  right: 0;
+}
+
+.navbar {
+  top: 0;
+  position: fixed;
+  width: 100%;
+}
+
+.navbar-title {
+  background-color: #d5202c;
+  color: #f7f7ff;
+  margin: 0;
+  padding: 20px 50px;
+}
+
+.cards-section {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.card-container {
+  background-color: white;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  display: flex;
+  flex-direction: column;
+  width: 330px;
+  border-radius: 10px;
+  padding: 20px;
+  padding-top: 0;
+  margin: 20px 40px;
+}
+
+.pokemon-card-img {
+  margin: 0 25%;
+  height: 150px;
+  width: 150px;
+}
+
+.bottom-card-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.pokemon-type-img {
+  height: 50px;
+  width: 50px;
+  margin: 0 5px;
+}
+
+.card-stats {
+  width: 60%;
+  font-weight: 600;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-left: 20px;
+}

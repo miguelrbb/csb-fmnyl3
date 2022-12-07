@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://.github.io/csb-fmnyl3/static/js/main.70a768ac.chunk.js",
+    "main.js.map": "https://.github.io/csb-fmnyl3/static/js/main.70a768ac.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-fmnyl3/static/js/runtime-main.7d3f4cc7.js",
+    "runtime-main.js.map": "https://.github.io/csb-fmnyl3/static/js/runtime-main.7d3f4cc7.js.map",
+    "static/js/2.b0f6f775.chunk.js": "https://.github.io/csb-fmnyl3/static/js/2.b0f6f775.chunk.js",
+    "static/js/2.b0f6f775.chunk.js.map": "https://.github.io/csb-fmnyl3/static/js/2.b0f6f775.chunk.js.map",
+    "index.html": "https://.github.io/csb-fmnyl3/index.html",
+    "precache-manifest.5677548af34fe5d1ca4ad542c310d76e.js": "https://.github.io/csb-fmnyl3/precache-manifest.5677548af34fe5d1ca4ad542c310d76e.js",
+    "service-worker.js": "https://.github.io/csb-fmnyl3/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d3f4cc7.js",
+    "static/js/2.b0f6f775.chunk.js",
+    "static/js/main.70a768ac.chunk.js"
+  ]
+}
